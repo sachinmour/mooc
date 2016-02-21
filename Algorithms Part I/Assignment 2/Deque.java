@@ -1,6 +1,3 @@
-package com.example.java;
-
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
